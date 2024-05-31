@@ -7,6 +7,9 @@ In an increasingly competitive food industry, understanding consumer preferences
 ## PROJECT OVERVIEW
 The "Pizza Sales" project is a comprehensive analysis endeavor that delves into a complete dataset from a pizza store's operations throughout the year 2015. The provided dataset, initially formatted in CSV format, has been migrated and integrated into a MySQL server for efficient querying and analysis. The primary objective of this project is to extract key performance indicators (KPIs) and valuable insights from the data, enabling informed decision-making for the pizza business.By employing various analytical queries, we aim to gain a deeper understanding of sales trends and customer behavior within the pizza industry.
 
+ ## DATA SOURCES
+The "Pizza Sales Analysis Using SQL" project utilizes four primary CSV data sources: orders_details.csv, orders.csv, pizza_types.csv, and pizzas.csv. These files encompass comprehensive details on individual order components, overall order summaries, categorizations of pizza types, and specific pizza items, respectively. Together, these datasets provide a robust foundation for analyzing transaction patterns, customer preferences, and product performance within the pizza store's operations. 
+
 ## PROJECT OBJECTIVE
 The primary objective of the "Pizza Sales Analysis Using SQL" project is to harness the power of data analysis and visualization to uncover actionable insights that can drive strategic decision-making for a pizza outlet. By analyzing a comprehensive dataset detailing the store's operations throughout the year 2015, the project aims to:
  # Understand Sales Trends:
